@@ -1,14 +1,9 @@
 {
   "players": [
-    { "name": "d4shyb0i", "badges": ["saturn_dev"] }
+    { "name": "d4shyb0i", "badges": ["saturn"] }
   ],
   "badges": {
-    "saturn_dev": {
-      "symbol": "S",
-      "color": "dark_aqua",
-      "hover": "Saturn Client Developer"
-    },
-    "saturn_user": {
+    "saturn": {
       "symbol": "S",
       "color": "cyan",
       "hover": "Saturn Client User"
