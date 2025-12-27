@@ -1,12 +1,15 @@
 {
-  "players": [
-    { "name": "d4shyb0i", "badges": ["saturn"] }
-  ],
-  "badges": {
-    "saturn": {
-      "symbol": "S",
-      "color": "cyan",
-      "hover": "Saturn Client User"
+  "users": [
+    {
+      "uuid": "your-uuid-here",
+      "icon": "saturn_badge"
+    },
+    {
+      "uuid": "friend-uuid-here",
+      "icon": "saturn_badge"
     }
+  ],
+  "icons": {
+    "saturn_badge": "saturn:textures/gui/icon.png"
   }
 }
